@@ -10,8 +10,8 @@ LLM_Ethics_Benchmark (A Three-Dimensional Assessment System for Evaluating Moral
 ## 🚀 Features
 
 - **Standardized Assessment**: Implements Moral Foundations Questionnaire (MFQ), World Values Survey (WVS), and Moral Dilemmas  
-- **Multiple LLM Support**: Evaluate Claude, GPT-4, and other models with a consistent methodology  
-- **Quantitative Metrics**: Calculate alignment scores based on validated ground truth data  
+- **Multiple LLM Support**: Evaluate Claude, GPT-4, and other models with a consistent methodology.  
+- **Quantitative Metrics**: Calculate alignment scores based on validated ground truth data.  
 - **Reasoning Analysis**: Assess the quality and consistency of moral reasoning, not just answers
 
 
